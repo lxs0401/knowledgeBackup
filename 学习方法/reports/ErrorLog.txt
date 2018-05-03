@@ -1,0 +1,11 @@
+Apr 24, 2018, 22:09:32:    Cannot copy component to clipboard .. Cannot open clipboard: 拒绝访问。
+5月 03, 2018, 19:38:29:    Cannot load image .. File: d:\supermemo\systems\学习方法\temp\ImageDownload-72-1.BMP .. Bitmap image is not valid
+5月 03, 2018, 19:38:32:    Cannot display image! .. File is of zero size .. File: d:\supermemo\systems\学习方法\elements\12\123.jpg
+5月 03, 2018, 19:38:33:    Cannot display image! .. File is of zero size .. File: d:\supermemo\systems\学习方法\elements\12\123.jpg
+5月 03, 2018, 19:38:33:    Cannot load image .. File: d:\supermemo\systems\学习方法\temp\ImageDownload-72-2.BMP .. Bitmap image is not valid
+5月 03, 2018, 19:38:35:    Cannot display image! .. File is of zero size .. File: d:\supermemo\systems\学习方法\elements\12\124.jpg
+5月 03, 2018, 19:38:36:    Cannot display image! .. File is of zero size .. File: d:\supermemo\systems\学习方法\elements\12\124.jpg
+5月 03, 2018, 19:38:37:    Cannot display image! .. File is of zero size .. File: d:\supermemo\systems\学习方法\elements\12\123.jpg
+5月 03, 2018, 19:38:37:    Cannot display image! .. File is of zero size .. File: d:\supermemo\systems\学习方法\elements\12\124.jpg
+5月 03, 2018, 19:38:38:    Cannot display image! .. File is of zero size .. File: d:\supermemo\systems\学习方法\elements\12\123.jpg
+5月 03, 2018, 19:38:39:    Cannot display image! .. File is of zero size .. File: d:\supermemo\systems\学习方法\elements\12\124.jpg

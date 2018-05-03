@@ -1,0 +1,3 @@
+Apr 29, 2018, 21:12:16:    Fatal error! ..  .. Cannot open registry files .. Registry=e:\supermemo17\systems\ÆôÃÉ½ÌÓý\registry\Concept .. ¶ÑÕ»Òç³ö ..  .. Choose Abort to halt SuperMemo ..  .. IMPORTANT! To prevent data loss do the following:
+1. Back up your collection (e.g. with Ctrl+Shift+C)
+2. Run File : Repair collection (Ctrl+F12)!!!
