@@ -1,0 +1,2 @@
+Date, Element No, Used interval, SM16 Interval (new), SM17 Interval (new), SM17/SM16 Interval ratio, R (SM16), R (SM17)(exp), R (SM17), Grade, Success, abs RM16, abs RM17 (expected), abs RM17 (predicted), abs R-Metric, sqr R-Metric, Title,
+May 04 2018 07:13:40,18,13,31,20,0.66,0.863,0.646,0.832,4,1,0.1374,0.3537,0.168,-0.0306,-0.0093,写可读的代码注释不但没能让代码变得可读，反而由于大量的注释充斥在代码中间，让程序变得障眼难读。而且代码的逻辑一旦修改，就会有很多的注释变得过时，需要更新。修改注释是相当大的负担，所以大量的注释。 .
