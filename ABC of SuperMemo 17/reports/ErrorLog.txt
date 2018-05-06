@@ -1,6 +1,0 @@
-May 03, 2018, 18:43:15:    Fatal error! ..  .. Total is less than Pending .. Total=1 .. Pending=60 .. d:\supermemo\systems\abc of supermemo 17.Kno ..  .. Choose Abort to halt SuperMemo ..  .. IMPORTANT! To prevent data loss do the following:
-1. Back up your collection (e.g. with Ctrl+Shift+C)
-2. Run File : Repair collection (Ctrl+F12)!!!
-May 03, 2018, 18:43:32:    Fatal error! ..  .. Total is less than Pending .. Total=1 .. Pending=60 .. d:\supermemo\systems\abc of supermemo 17.Kno ..  .. Choose Abort to halt SuperMemo ..  .. IMPORTANT! To prevent data loss do the following:
-1. Back up your collection (e.g. with Ctrl+Shift+C)
-2. Run File : Repair collection (Ctrl+F12)!!!
