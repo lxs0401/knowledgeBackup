@@ -1,0 +1,19 @@
+SuperMemo Report
+   Activity: Checking the integrity of the collection
+   Collection: c:\supermemo\systems\±à³ÌÑ§Ï°
+   Date: Monday, May 7, 2018, 9:52:27 PM
+   SuperMemo 17 (Build 17.1, Oct 3, 2016)
+
+Checking 115 element records (ElementInfo.dat)
+Verifying integrity of element data (115 elements in ElementInfo.dat)
+Verifying knowledge tree (115 elements in Contents.dat)
+Verifying the priority queue of 102 elements
+Verifying repetition schedule (Workload.dat and ElementInfo.dat)
+Verifying pending queue (Intact.dat)
+Verifying A-Factor, Lapses and Repetitions distributions
+
+Process completed at 9:52:27 PM in 00:00:00 sec (Monday, May 7, 2018)
+
+NO ERRORS (Checking the integrity of the collection)
+
+____________________________________________________________

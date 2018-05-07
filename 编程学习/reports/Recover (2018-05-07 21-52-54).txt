@@ -1,0 +1,44 @@
+SuperMemo Report
+   Activity: Checking the integrity of the collection
+   Collection: c:\supermemo\systems\编程学习
+   Date: Monday, May 7, 2018, 9:52:54 PM
+   SuperMemo 17 (Build 17.1, Oct 3, 2016)
+
+Checking 115 element records (ElementInfo.dat)
+Turning on tasklist verification along element data integrity checks
+Verifying integrity of element data (115 elements in ElementInfo.dat)
+Verifying knowledge tree (115 elements in Contents.dat)
+Verifying the priority queue of 102 elements
+Verifying repetition schedule (Workload.dat and ElementInfo.dat)
+Verifying pending queue (Intact.dat)
+Verifying A-Factor, Lapses and Repetitions distributions
+Verifying OLE filespace
+Verifying image filespace
+Verifying sound filespace
+Verifying video filespace
+Verifying stylesheet filespace
+Verifying script filespace
+Verifying binary filespace
+Verifying text filespace
+Inspecting 194 filespace slots
+Transferring stray file 47.jpg
+   From: c:\supermemo\systems\编程学习\elements\4\47.jpg
+   To: c:\supermemo\systems\编程学习\recover\47.jpg
+Transferring stray file 57.jpg
+   From: c:\supermemo\systems\编程学习\elements\5\57.jpg
+   To: c:\supermemo\systems\编程学习\recover\57.jpg
+Unused filespace slot count: 9
+Checking for empty filespace slots
+Inspecting 9 empty filespace slot(s)
+Verifying repetition history
+Repetition history compressed from 10.14 kB to 8619 bytes
+Deleting temporary folders
+Deleting directory: c:\supermemo\systems\编程学习\temp
+Removing empty collection directories
+Deleting directory: c:\supermemo\systems\编程学习\alg17\
+
+Process completed at 9:52:55 PM in 00:00:00 sec (Monday, May 7, 2018)
+
+NO ERRORS (Checking the integrity of the collection)
+
+____________________________________________________________

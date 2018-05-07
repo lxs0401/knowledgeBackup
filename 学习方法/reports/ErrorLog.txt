@@ -1,12 +1,12 @@
-Apr 24, 2018, 22:09:32:    Cannot copy component to clipboard .. Cannot open clipboard: ¾Ü¾ø·ÃÎÊ¡£
-5ÔÂ 03, 2018, 19:38:29:    Cannot load image .. File: d:\supermemo\systems\Ñ§Ï°·½·¨\temp\ImageDownload-72-1.BMP .. Bitmap image is not valid
-5ÔÂ 03, 2018, 19:38:32:    Cannot display image! .. File is of zero size .. File: d:\supermemo\systems\Ñ§Ï°·½·¨\elements\12\123.jpg
-5ÔÂ 03, 2018, 19:38:33:    Cannot display image! .. File is of zero size .. File: d:\supermemo\systems\Ñ§Ï°·½·¨\elements\12\123.jpg
-5ÔÂ 03, 2018, 19:38:33:    Cannot load image .. File: d:\supermemo\systems\Ñ§Ï°·½·¨\temp\ImageDownload-72-2.BMP .. Bitmap image is not valid
-5ÔÂ 03, 2018, 19:38:35:    Cannot display image! .. File is of zero size .. File: d:\supermemo\systems\Ñ§Ï°·½·¨\elements\12\124.jpg
-5ÔÂ 03, 2018, 19:38:36:    Cannot display image! .. File is of zero size .. File: d:\supermemo\systems\Ñ§Ï°·½·¨\elements\12\124.jpg
-5ÔÂ 03, 2018, 19:38:37:    Cannot display image! .. File is of zero size .. File: d:\supermemo\systems\Ñ§Ï°·½·¨\elements\12\123.jpg
-5ÔÂ 03, 2018, 19:38:37:    Cannot display image! .. File is of zero size .. File: d:\supermemo\systems\Ñ§Ï°·½·¨\elements\12\124.jpg
-5ÔÂ 03, 2018, 19:38:38:    Cannot display image! .. File is of zero size .. File: d:\supermemo\systems\Ñ§Ï°·½·¨\elements\12\123.jpg
-5ÔÂ 03, 2018, 19:38:39:    Cannot display image! .. File is of zero size .. File: d:\supermemo\systems\Ñ§Ï°·½·¨\elements\12\124.jpg
+Apr 24, 2018, 22:09:32:    Cannot copy component to clipboard .. Cannot open clipboard: ï¿½Ü¾ï¿½ï¿½ï¿½ï¿½Ê¡ï¿½
+5ï¿½ï¿½ 03, 2018, 19:38:29:    Cannot load image .. File: c:\supermemo\systems\Ñ§Ï°ï¿½ï¿½ï¿½ï¿½\temp\ImageDownload-72-1.BMP .. Bitmap image is not valid
+5ï¿½ï¿½ 03, 2018, 19:38:32:    Cannot display image! .. File is of zero size .. File: c:\supermemo\systems\Ñ§Ï°ï¿½ï¿½ï¿½ï¿½\elements\12\123.jpg
+5ï¿½ï¿½ 03, 2018, 19:38:33:    Cannot display image! .. File is of zero size .. File: c:\supermemo\systems\Ñ§Ï°ï¿½ï¿½ï¿½ï¿½\elements\12\123.jpg
+5ï¿½ï¿½ 03, 2018, 19:38:33:    Cannot load image .. File: c:\supermemo\systems\Ñ§Ï°ï¿½ï¿½ï¿½ï¿½\temp\ImageDownload-72-2.BMP .. Bitmap image is not valid
+5ï¿½ï¿½ 03, 2018, 19:38:35:    Cannot display image! .. File is of zero size .. File: c:\supermemo\systems\Ñ§Ï°ï¿½ï¿½ï¿½ï¿½\elements\12\124.jpg
+5ï¿½ï¿½ 03, 2018, 19:38:36:    Cannot display image! .. File is of zero size .. File: c:\supermemo\systems\Ñ§Ï°ï¿½ï¿½ï¿½ï¿½\elements\12\124.jpg
+5ï¿½ï¿½ 03, 2018, 19:38:37:    Cannot display image! .. File is of zero size .. File: c:\supermemo\systems\Ñ§Ï°ï¿½ï¿½ï¿½ï¿½\elements\12\123.jpg
+5ï¿½ï¿½ 03, 2018, 19:38:37:    Cannot display image! .. File is of zero size .. File: c:\supermemo\systems\Ñ§Ï°ï¿½ï¿½ï¿½ï¿½\elements\12\124.jpg
+5ï¿½ï¿½ 03, 2018, 19:38:38:    Cannot display image! .. File is of zero size .. File: c:\supermemo\systems\Ñ§Ï°ï¿½ï¿½ï¿½ï¿½\elements\12\123.jpg
+5ï¿½ï¿½ 03, 2018, 19:38:39:    Cannot display image! .. File is of zero size .. File: c:\supermemo\systems\Ñ§Ï°ï¿½ï¿½ï¿½ï¿½\elements\12\124.jpg
 May 05, 2018, 15:59:57:    No content found at this location: .. http://super-memory.com/help/il.htm
