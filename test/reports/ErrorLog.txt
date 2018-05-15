@@ -1,3 +1,0 @@
-May 13, 2018, 20:48:17:    Registry not initialized
-May 13, 2018, 21:18:01:    Slot data element pointer mismatch .. Slot data: Element #0 .. Element ptr: Topic #35: .. (deleted) ..
-May 13, 2018, 23:24:41:    Slot data element pointer mismatch .. Slot data: Element #0 .. Element ptr: Topic #54: .. (deleted) ..

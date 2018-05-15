@@ -3,3 +3,9 @@ Apr 22, 2018, 22:24:01:    Cannot extract portions of this picture. .. Try reduc
 May 03, 2018, 20:15:54:    Picture zoomed too closely. No area can be selected
 May 06, 2018, 21:43:51:    初始化 MCI 时发生问题。
 May 10, 2018, 21:48:04:    Errors in imported text file .. Premature element source termination .. Element text: 内存需求、取值范围 .. 
+May 15, 2018, 11:49:30:    Wrong A-Factor distribution in category #19
+May 15, 2018, 11:49:34:    Cannot update workload statistics for day 31 .. Range check error
+May 15, 2018, 11:49:56:    Wrong A-Factor distribution in category #19
+May 15, 2018, 11:49:58:    Wrong interval distribution
+May 15, 2018, 11:49:59:    Wrong repetition distribution for category #1
+May 15, 2018, 11:49:59:    Cannot update workload statistics for day 50 .. Range check error
