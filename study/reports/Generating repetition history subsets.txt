@@ -1,0 +1,12 @@
+SuperMemo Report
+   Activity: Generating repetition history subsets
+   Collection: c:\users\dell\documents\github\knowledgebackup\study
+   Date: Wednesday, May 16, 2018, 10:06:46 AM
+   SuperMemo 17 (Build 17.3, Dec 1, 2017)
+
+
+Process completed at 10:06:46 AM in 00:00:00 sec (Wednesday, May 16, 2018)
+
+NO ERRORS (Generating repetition history subsets)
+
+____________________________________________________________

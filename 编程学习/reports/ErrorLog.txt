@@ -9,3 +9,4 @@ May 15, 2018, 11:49:56:    Wrong A-Factor distribution in category #19
 May 15, 2018, 11:49:58:    Wrong interval distribution
 May 15, 2018, 11:49:59:    Wrong repetition distribution for category #1
 May 15, 2018, 11:49:59:    Cannot update workload statistics for day 50 .. Range check error
+May 16, 2018, 06:43:46:    Wrong repetition distribution for category #1
