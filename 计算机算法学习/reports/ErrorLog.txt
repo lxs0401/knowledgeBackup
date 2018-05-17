@@ -1,1 +1,2 @@
 May 15, 2018, 16:32:57:    Element not in the outstanding queue .. Cannot shift its outstanding position
+May 17, 2018, 15:32:49:    Picture zoomed too closely. No area can be selected
