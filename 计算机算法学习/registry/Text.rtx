@@ -1675,4 +1675,4 @@ def putApple(m,n):
         int maj = nums[0]; 
         int count = 1; 
 [...]    } 
-} ·   min = visted[i]; V  
+} ·   min = visted[i]; V  
