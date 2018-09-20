@@ -1,0 +1,13 @@
+SuperMemo Report
+   Activity: Collecting retention data
+   Collection: c:\users\dell\documents\github\knowledgebackup\สýัง
+   Date: Thursday, September 13, 2018, 7:12:30 PM
+   SuperMemo 17 (Build 17.40, Jun 11, 2018)
+
+Retention data errors can be ignored
+
+Process completed at 7:12:30 PM in 00:00:00 sec (Thursday, September 13, 2018)
+
+NO ERRORS (Collecting retention data)
+
+____________________________________________________________
