@@ -1,2 +1,0 @@
-Apr 20, 2018, 19:33:34:    Wrong component index: 0
-Apr 20, 2018, 20:07:39:    Wrong component index: 0
